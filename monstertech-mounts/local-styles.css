@@ -70,6 +70,18 @@ img.vertical-image {
   border: 1px solid #888;
 }
 
+div.horizontal-image-outer-wrapper  > div.image-subtitle {
+  max-width: 38em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.vertical-image-outer-wrapper  > div.image-subtitle {
+  max-width: 26em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 h2 {
   margin-top: 15ex;
   margin-left: 10%;
