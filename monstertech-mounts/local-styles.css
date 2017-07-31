@@ -9,6 +9,8 @@ div#content {
   text-align: left;
   margin-top: 3ex;
   border-top: 1px solid #888;
+  margin-left: 2em;
+  margin-right: 2em;
   padding-bottom: 20ex;
   border-bottom: 1px solid #888;
   margin-bottom: 1ex;
@@ -32,8 +34,8 @@ p.color-selection {
 }
 
 #content {
-  padding-left: 5em;
-  padding-right: 5em;
+  padding-left: 2em;
+  padding-right: 2em;
   padding-top: 8ex;
   background-color: #ffffff;
   height: 100%;
